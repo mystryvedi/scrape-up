@@ -97,7 +97,5 @@ With our web-scraping-based Python tool, you can unlock a world of data and over
 🌟 We value the time and effort you put into contributing, and we look forward to reviewing and merging your contributions. Together, let's make web scraping a powerful and accessible tool for extracting data from various platforms.
 
 ✨ Once again, thank you for your contribution!
-
 ---
-
 <p align="right">(<a href="#top">Back to top</a>)</p>
